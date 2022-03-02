@@ -1,0 +1,8 @@
+HTTP/1.0 503 Service Unavailable
+Cache-Control: no-cache
+Connection: close
+Content-Type: text/html
+
+<html><body><h1>Error 503</h1>
+Lo sentimos no podemos atender su petición por que no tenemos disponibilidad de servidores, vuelva pronto
+</body></html>
